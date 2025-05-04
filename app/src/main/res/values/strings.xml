@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ComposePlayground</string>
+    <string name="header_section">Senior Android Developer @ Optimum Solutions Pte Ltd | Banking | Health Care | Android Development | Kotlin | Jetpack Compose | Flutter</string>
+    <string name="profile_name">Aravindh Samidurai</string>
+    <string name="about_section">• As a Senior Application Consultant, contributions include optimizing OCBC Bank\'s Android app by transitioning Java to Kotlin and implementing microservices APIs, improving both performance and user experience. The role emphasizes a collaborative approach to delivering secure and scalable solutions. \n\n• Backed by an MCA from Anna University, skills span Kotlin, API integration, and performance optimization. Previous work at Altimetrik and ObjectFrontier Software further honed expertise in data security and app migration. Motivated to drive seamless, user-focused digital transformation in the mobile application space.</string>
+    <string name="experience">Experience</string>
+    <string name="about">About</string>
+    <string name="current_company">Optimum Solutions</string>
+    <string name="current_location">Singapore</string>
+
 </resources>
